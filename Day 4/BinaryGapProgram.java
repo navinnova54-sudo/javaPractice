@@ -11,8 +11,7 @@ public class BinaryGapProgram {
                     maxGap = Math.max(maxGap, currentGap);
                 }
                 currentGap = 0; 
-            } else {
-                if (currentGap != -1) {
+            } else  {                  if (currentGap != -1) {
                     currentGap++;
                 }
             }
