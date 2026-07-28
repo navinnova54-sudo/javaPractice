@@ -1,5 +1,3 @@
-package Day11;
-
 class AccessExample {
 
     public int a = 10;
